@@ -1,0 +1,23 @@
+site_name: 明日方舟一图流
+site_url: https://yituliu.site/docs
+repo_url: https://github.com/Arknights-yituliu
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - toc.integrate
+    - navigation.top
+    - navigation.expand
+    - navigation.indexes
+    - navigation.tracking
+  language: zh
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 切换到暗色模式
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换到亮色模式
